@@ -23,9 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emabilibili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emabilibili" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emanuel-binimelis-3101a0185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emanuel-binimelis-3101a0185/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ema.binimelis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ema.binimelis/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc9psqw78rft-h3ecjefvdoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc9psqw78rft-h3ecjefvdoa" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/EmanuelBinimelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emanuel-binimelis-3101a0185/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ema.binimelis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ema.binimelis/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC9Psqw78rFT-H3EcjEFVDoA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc9psqw78rft-h3ecjefvdoa" height="30" width="40" /></a>
 <a href="https://discord.gg/emanuelbinimelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="emanuelbinimelis" height="30" width="40" /></a>
 </p>
 
