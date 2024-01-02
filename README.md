@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Emanuel Binimelis</h1>
   <h3 align="center">I am a game programmer in Unity</h3>
 </div>
-<blockquote class="imgur-embed-pub" lang="en" data-id="WnMp1JN"><a href="https://imgur.com/WnMp1JN">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/ohZVzcB">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emabilibili&label=Profile%20views&color=0e75b6&style=flat" alt="emabilibili" /> </p>
 
