@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Emanuel Binimelis</h1>
-<h3 align="center">I am a game programmer in Unity</h3>
+<div>
+  <h1 align="center">Hi 👋, I'm Emanuel Binimelis</h1>
+  <h3 align="center">I am a game programmer in Unity</h3>
+</div>
+<img src=https://imgur.com/WnMp1JN>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emabilibili&label=Profile%20views&color=0e75b6&style=flat" alt="emabilibili" /> </p>
 
