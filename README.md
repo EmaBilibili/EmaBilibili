@@ -3,7 +3,7 @@
   <h3 align="center">I am a game programmer in Unity</h3>
 </div>
 <div align="center">
-  <img src="https://i.imgur.com/FfZ7mzM.png">
+  <img src="https://i.imgur.com/sZgiIfR.png">
 </div>
 
 
