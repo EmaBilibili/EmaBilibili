@@ -1,8 +1,9 @@
-<div>
+<div aling="center">
   <h1 align="center">Hi 👋, I'm Emanuel Binimelis</h1>
   <h3 align="center">I am a game programmer in Unity</h3>
+  <img src="https://i.imgur.com/FfZ7mzM.png">
 </div>
-<img src="https://i.imgur.com/FfZ7mzM.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emabilibili&label=Profile%20views&color=0e75b6&style=flat" alt="emabilibili" /> </p>
 
